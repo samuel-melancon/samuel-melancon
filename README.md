@@ -25,11 +25,12 @@ My academic background includes calculus, linear algebra, probability theory, st
 ## Featured Projects
 **Monte Carlo Simulation Projects**  
 Applied probability and simulation techniques to model uncertainty and risk in the California Housing market
-Used Data visualization to support 
+Used Data visualization to support
 
 **Cryptography**
-Implemented encryption and decyrption algorithms to model uncertainty using C++ and MATLAB
-Mainly included logic, modular arithmetic, and data transformations
+Implemented encyrption and decryption algorithims to model uncertanity using C++ and MATLAB
+Focused on logic, modular arithmetic, matrices, and data transformations
+
 ---
 
 ## Career Interests
